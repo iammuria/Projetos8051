@@ -51,7 +51,7 @@ soma:
 	
 delay200us:			;2 
 	mov	R1,#200d	;1
-	djnz	R1,$		;2*200
+	djnz	R1,$		;1*200
 	ret			;2
 
 end
