@@ -7,3 +7,5 @@ Vídeo explicação no Youtube: https://www.youtube.com/watch?v=OBW17Oebb4M
 Estes arquivos são relativos a um trabalho da matéria de Sistemas Microprocessados. Na pasta estão os arquivos de esquemático de ligações, e o código em assembly.
 
 Alunos: Rauney Medeiros e Múria Viana :)
+
+IFG - Câmpus Goiânia
